@@ -24,3 +24,23 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+ion-title {
+  text-align: center;
+}
+
+ion-chip {
+  height: fit-content;
+}
+
+ion-icon {
+  font-size: 3.2em;
+}
+
+ion-label {
+  font-size: 1.6em;
+}
+
+ion-card-content {
+  text-align: left;
+}
